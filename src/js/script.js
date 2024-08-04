@@ -1,5 +1,5 @@
 let senha = document.getElementById('senha');
-let senhaCorreta = 1234;
+let senhaCorreta = 2001;
 var sec=0;
 let audio = document.getElementById('audio');
 
